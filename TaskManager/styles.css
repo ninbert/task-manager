@@ -1,0 +1,98 @@
+body  {
+    background-image: url(images/tile.jpg);
+
+}
+
+.center {
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+header {
+    text-align:center;
+    clear:both;
+}
+
+#textArea {
+
+    background-image: url(images/formbg.jpg);
+    background-repeat: repeat-y;
+    line-height: 33px;
+    font-size: 20px;
+    padding-top:15px;
+    padding-left:80px;
+    font-family:'Shadows Into Light', cursive;
+
+}
+#textareaDiv {
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
+.right {
+    padding-left:157px;
+
+
+
+
+
+}
+
+
+.btn {margin-right:20px;}
+
+
+
+.noteDiv {
+    height: 250px;
+    width: 200px;
+    background-image: url("images/notebg.png");
+    float:left;
+    margin-right:30px;
+    margin-left:40px;
+    padding-top: 20px;
+    padding-right:30px;
+    position:relative;
+    overflow:hidden;
+
+}
+
+.paraGraphDate {
+
+    text-align: left;
+    padding-left:6px;
+    position: absolute;
+    float:bottom;
+    bottom:0px;
+    margin-bottom:0px;
+
+
+    font-family:'Shadows Into Light', cursive;
+
+
+}
+
+.paraGraph {
+    font-family:'Shadows Into Light', cursive;
+
+    padding-bottom:150px;
+    overflow:hidden;
+}
+
+.offset-3 {padding-right:100px;
+    margin-left:265px;}
+.col-xl-2 {padding-left:5px;
+    padding-right:5px;
+    margin-top:8px;}
+
+#datepicker {background-color:aliceblue;  }
+
+.paraDiv {height:170px;
+    overflow:hidden;
+    position:relative;}
